@@ -25,8 +25,7 @@ O dashboard foi estruturado para responder às seguintes questões estratégicas
 
 ## 📸 Visualização do Dashboard
 
-![Preview do Dashboard](link_da_imagem_aqui)
-*(Substitua este texto pelo link da imagem do seu dashboard ou faça o upload da imagem na própria issue/repositório)*
+![Preview do Dashboard](https://github.com/Gabriel4210/Projeto_Dio_Excel_Santander_Bootcamp/blob/main/Dashboard%20Xbox%20Preview.PNG?raw=true)
 
 ## 🛠️ Tecnologias Utilizadas
 
